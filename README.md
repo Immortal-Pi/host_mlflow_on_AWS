@@ -42,6 +42,12 @@ export MLFLOW_TRACKING_URI=http://ec2-44-201-168-70.compute-1.amazonaws.com:5000
 ```
 or set the environment variables in .env file 
 
+## run the application 
+the arguments are alpha and l1_ratio values for ElasticNet 
+
+```bash
+python app.py 0.1 0.5
+```
 # screenshots 
 
 ![Mlflow1](https://github.com/Immortal-Pi/host_mlflow_on_AWS/blob/main/outputs/1.png)
