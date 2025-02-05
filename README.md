@@ -40,4 +40,12 @@ example url
 ```bash
 export MLFLOW_TRACKING_URI=http://ec2-44-201-168-70.compute-1.amazonaws.com:5000/
 ```
-or set the environment variables
+or set the environment variables in .env file 
+
+# screenshots 
+
+![Mlflow1](https://github.com/Immortal-Pi/host_mlflow_on_AWS/blob/main/outputs/1.png)
+
+![Mlflow2](https://github.com/Immortal-Pi/host_mlflow_on_AWS/blob/main/outputs/2.png)
+
+![AMAZONS3](https://github.com/Immortal-Pi/host_mlflow_on_AWS/blob/main/outputs/3.png)
